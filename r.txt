@@ -1,0 +1,11 @@
+-e .
+pytest
+aws_cdk.aws_codecommit==1.103.0
+aws_cdk.aws_codepipeline==1.103.0
+aws_cdk.aws_codebuild==1.103.0
+aws_cdk.aws_cloudwatch==1.103.0
+aws_cdk.aws_codepipeline_actions==1.103.0
+aws_cdk.pipelines==1.103.0
+aws_cdk.aws_ecr==1.103.0
+aws_cdk.aws_iam==1.103.0
+aws_cdk.core==1.103.0
